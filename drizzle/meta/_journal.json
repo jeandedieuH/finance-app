@@ -1,0 +1,27 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715724535559,
+      "tag": "0000_pale_bromley",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715779137587,
+      "tag": "0001_natural_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1718568228486,
+      "tag": "0002_melodic_jocasta",
+      "breakpoints": true
+    }
+  ]
+}
